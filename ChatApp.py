@@ -20,3 +20,5 @@ def my_event_handler(json):
 
 if __name__ == '__main__':
     socketio.run(app, debug=True)
+
+    
